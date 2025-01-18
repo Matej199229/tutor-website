@@ -1,0 +1,1 @@
+HTML/CSS template website that can be used for a tutoring/educational business need. Also some basic javascript used as well for mobile menu hamburger toggle functionality as well as keeping the main header navigation bar on top of page at all times and change the bg color slightly as user scrolls down through page.
